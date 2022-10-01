@@ -7,10 +7,7 @@ I would like to get my first programming experience. When I discovered what soft
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,&perline=6)](https://skillicons.dev)
 
-## My Stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinkozakdev&theme=nord&show_icons=true)
-#
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinkozakdev&theme=nord)](https://github.com/marcinkozakdev/github-readme-stats)
+
 
 
 
@@ -28,6 +25,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+## My Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcinkozakdev&theme=nord&show_icons=true)
+#
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcinkozakdev&theme=nord)](https://github.com/marcinkozakdev/github-readme-stats)
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
