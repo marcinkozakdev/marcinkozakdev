@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Marcin
 
-  I am self-taught programmer. I am currently working as a mechanical engineer in the automotive industry and I do content on design and development.
+  I am a self-taught developer. I currently work as a mechanical engineer, I design and develop products for the automotive industry. 
 I would like to get my first programming experience. When I discovered what software is, I develop my skills in this field with passion. I really enjoy lerning languages and farameworks like C#. 
 
 ## Developing skills in:
