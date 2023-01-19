@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Marcin
+# Hi there, I'm Marcin # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
   I am a self-taught developer. I currently work as a mechanical engineer, I design and develop products for the automotive industry. 
 I would like to get my first programming experience. When I discovered what software is, I develop my skills in this field with passion. I really enjoy lerning languages and farameworks like C#. 
