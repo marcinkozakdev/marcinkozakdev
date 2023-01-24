@@ -2,11 +2,20 @@
 
   I am a self-taught developer. I currently work as a mechanical engineer, I design and develop products for the automotive industry. 
 I would like to get my first programming experience. When I discovered what software is, I develop my skills in this field with passion. I really enjoy lerning languages and farameworks like C#. 
+- 👀 I’m interested in .NET and web technology.
+- 🌱 I’m currently learning web development and process flow in SQL Server.
+- ✏️ I’m looking new opportunities to study harder C#
+- 📫 You can find me on    [![LinkedIn][1.2]][1]
 
 ## Developing skills in:
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,git,github,visualstudio,&perline=6)](https://skillicons.dev)
 
+<!-- Icons -->
+[1.2]: https://icons.iconarchive.com/icons/danleech/simple/16/linkedin-icon.png
+
+<!-- Links to your social media accounts -->
+[1]: https://www.linkedin.com/in/marcin-kozak-2638811a5/
 
 
 
@@ -35,4 +44,5 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 -->
